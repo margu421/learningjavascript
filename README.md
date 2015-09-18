@@ -18,6 +18,7 @@ I will have a TODO-list that I will try TO DO. Here it goes (in no particular or
  - Gulp for task automation - it seems like some of the non-creative stuff can be automated away
  - AngularJS - to interact with users 
  - nodemon - same reason as Gulp
+ - git and github - because it seems to be a good idea to keep track of versions
 
 
 ###How will I do it?
